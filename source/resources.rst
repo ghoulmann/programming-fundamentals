@@ -3,7 +3,7 @@
 :date: 6 July 2015
 
 ========================
-Session Resources
+Notes for Session Leader
 ========================
 
 Books
@@ -45,5 +45,10 @@ Code Avengers
 
   https://www.codeavengers.com/
 
-Software
-================================
+Brianpop
+
+  https://www.brainpop.com/technology/computerscience/
+
+  .. image:: _static/brainpop.png
+    :align: center
+    :width: 75%

@@ -7,8 +7,6 @@ Scope and sequence
 Why Program?
 ===============
 
-Materials:
------------
 
 Rushkoff and Rushkoff study guide
 
@@ -17,6 +15,8 @@ Code.org and stem organizaitons for career opportunities
 This summary:
 
 .. image:: _static/rushkoff-commandments-summary.png
+
+Intro technological singularity; possibly timeline, posthumanism, cyborgs...will there be a such things?
 
 Coming to Terms
 ==================

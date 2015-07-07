@@ -7,6 +7,11 @@ Scope and sequence
 Why Program?
 ===============
 
+"Code Stars" video from Code.org: https://youtu.be/dU1xS07N-FA
+
+Rushkoff:
+
+  Digital technologies continue to increase the capabilities of mankind. These technologies, however, come with biases. **If we aren’t aware of these biases, we’ll find ourselves at the mercy of the technology designed to serve us. While there’s still time, we must take matters into our own hands and learn to program!**
 
 Rushkoff and Rushkoff study guide
 
@@ -15,6 +20,8 @@ Code.org and stem organizaitons for career opportunities
 This summary:
 
 .. image:: _static/rushkoff-commandments-summary.png
+  :align: center
+  :width: 50%
 
 Intro technological singularity; possibly timeline, posthumanism, cyborgs...will there be a such things?
 

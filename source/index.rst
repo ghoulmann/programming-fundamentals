@@ -12,6 +12,8 @@ Contents:
    :maxdepth: 2
 
    program-summary
+   lesson-notes
+   resources
 
 
 

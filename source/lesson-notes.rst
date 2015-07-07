@@ -4,6 +4,20 @@ Lesson Notes
 
 Scope and sequence
 
+Why Program?
+===============
+
+Materials:
+-----------
+
+Rushkoff and Rushkoff study guide
+
+Code.org and stem organizaitons for career opportunities
+
+This summary:
+
+.. image:: _static/rushkoff-commandments-summary.png
+
 Coming to Terms
 ==================
 
@@ -133,29 +147,29 @@ What does low level mean?
 
 1. Brainpop on binary
 
-Example from COBOL (this program outputs Hello World!)::
+2. Example from COBOL (this program outputs Hello World!)::
 
-  000100 IDENTIFICATION DIVISION.
-  000200 PROGRAM-ID.     HELLOWORLD.
-  000300
-  000400*
-  000500 ENVIRONMENT DIVISION.
-  000600 CONFIGURATION SECTION.
-  000700 SOURCE-COMPUTER. RM-COBOL.
-  000800 OBJECT-COMPUTER. RM-COBOL.
-  000900
-  001000 DATA DIVISION.
-  001100 FILE SECTION.
-  001200
-  100000 PROCEDURE DIVISION.
-  100100
-  100200 MAIN-LOGIC SECTION.
-  100300 BEGIN.
-  100400     DISPLAY " " LINE 1 POSITION 1 ERASE EOS.
-  100500     DISPLAY "Hello world!" LINE 15 POSITION 10.
-  100600     STOP RUN.
-  100700 MAIN-LOGIC-EXIT.
-  100800     EXIT.
+    000100 IDENTIFICATION DIVISION.
+    000200 PROGRAM-ID.     HELLOWORLD.
+    000300
+    000400*
+    000500 ENVIRONMENT DIVISION.
+    000600 CONFIGURATION SECTION.
+    000700 SOURCE-COMPUTER. RM-COBOL.
+    000800 OBJECT-COMPUTER. RM-COBOL.
+    000900
+    001000 DATA DIVISION.
+    001100 FILE SECTION.
+    001200
+    100000 PROCEDURE DIVISION.
+    100100
+    100200 MAIN-LOGIC SECTION.
+    100300 BEGIN.
+    100400     DISPLAY " " LINE 1 POSITION 1 ERASE EOS.
+    100500     DISPLAY "Hello world!" LINE 15 POSITION 10.
+    100600     STOP RUN.
+    100700 MAIN-LOGIC-EXIT.
+    100800     EXIT.
 
 What does high level mean?
 ----------------------------
@@ -176,7 +190,17 @@ What does code look like?
 
 Provide interpreted, high level simple code. Perhaps a python bit.
 
+Use guessing game code from *Pyhton for Kids* (No Starch)
+
 1. Remind names of punctuation
-2. Identify plain english: how is it separated from code?
-3.
-2. http://www.anatomyofcode.com/
+
+2. Identify plain english: how is it separated from code? (on comments)
+
+3. How much makes sense already? Identify familiar words (remark on high level languages and natural language)
+
+2. http://www.anatomyofcode.com/ (JavaScript anatomy); http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/anatomy/anatomy_introduction.html (Python anatomy)
+
+What did you learn?
+--------------------
+
+Coding, hacking on code, program, script, compiler, interpreter, low and high level languages, what code can look like

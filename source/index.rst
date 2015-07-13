@@ -12,8 +12,10 @@ Contents:
    :maxdepth: 2
 
    program-summary
+   OSfunctions
    lesson-notes
    resources
+   lesson-template
 
 
 

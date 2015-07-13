@@ -95,7 +95,7 @@ What is a computer language?
 ... a compiler?
 -------------------
 
-.. image:: _static/COMPILE.gif
+.. image:: _static/COMPILE.png
 
 .. image:: _static/compiler-wiki.png
 
